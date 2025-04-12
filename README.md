@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vivekshaarma
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning React Developer
 - 📫 How to reach me vivektheengineer10@gmail.com
 
 <!---
